@@ -44,6 +44,7 @@
     }
     
     nav ul li a {
+        display: flex;
         line-height: 80px;
         color: #071147;
         padding: 12px 30px;
